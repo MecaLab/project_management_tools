@@ -1,2 +1,3 @@
-# project_management_tools
-shared doc on project management tools
+# mattermost
+mattermost allows to centralize discussions and track the project advances in time
+https://mattermost.com/

@@ -1,2 +1,6 @@
-# project_management_tools
-shared doc on project management tools
+# trello
+trello allows to formalize project management.
+https://trello.com/
+It is somhow redundent with github_project.
+
+

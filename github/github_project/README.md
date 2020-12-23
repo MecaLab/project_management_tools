@@ -1,2 +1,2 @@
-# project_management_tools
-shared doc on project management tools
+# github_project
+documentation regarding the github project tool for managing projects that involves some code on github
